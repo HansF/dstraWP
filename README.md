@@ -195,11 +195,18 @@ DSTRA vows to employ many modern, tested and verified techniques to respect the 
 -----
 
 [^1]: **Satoshi Nakamoto.** "*[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)*", published October 31st, 2008.
+
 [^2]: **Mary J. Benner and Michael Tushman.** "*[Process Management and Technological Innovation: A Longitudinal Study of the Photography and Paint Industries](http://knowledge.wharton.upenn.edu/wp-content/uploads/2013/09/1301.pdf)*", First Published December 1, 2002
+
 [^3]: "Occupy Wall Street' Protests Give Voice to Anger Over Greed, Corporate Culture." PBS.com. PBS, 5 Oct. 2011. Web. 22 Apr. 2013.
+
 [^4]: **James Surowiecki.** "The Wisdom of Crowds: Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations", published in 2004.
+
 [^5]: **E. Duffield, H. Schinzel and F Gutierrez.** "*[Transaction Locking and Masternode Consensus: A Mechanism for Mitigating Double Spending Attacks](https://doclegend.com/download/transaction-locking-and-masternode-consensus-a-mechanism-for-mitigating-double-spending-attacks_59de0b37d64ab2e01dcedd9d_pdf)*" , published September 22nd, 2014
+
 [^6]: **Ben Bernanke.** "[Letter to Congress](https://www.documentcloud.org/documents/835843-virtual-currency-hearings.html)" 
+
 [^7]: **Haizheng Li, Richard Ward, Han Zhang.** "*[Risk, Convenience, Cost and Online Payment Choice: A Study of eBay Transactions](http://www.prism.gatech.edu/~hl45/research/ebay.pdf)*", October 2011.
+
 [^8]: **Source:** https://bitinfocharts.com/comparison/bitcoin-transactionfees.html
 
